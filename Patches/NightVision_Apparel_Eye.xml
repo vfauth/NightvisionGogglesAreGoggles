@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <!-- Tinted Goggles -->
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/ThingDef[defName="NV_tinted_goggles"]/apparel/layers</xpath>
+    <value>
+      <layers>
+        <li>EyeCover</li>
+      </layers>
+    </value>
+  </Operation>
+  <!-- Night Vision Goggles -->
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/ThingDef[defName="NV_nv_goggles"]/apparel/layers</xpath>
+    <value>
+      <layers>
+        <li>EyeCover</li>
+      </layers>
+    </value>
+  </Operation>
+</Patch>
