@@ -5,4 +5,4 @@ It patches all the base mod goggles (Tinted Goggles and night Vision Goggles) so
 
 ## Download
 
-Download it here or on [Steam workshop]().
+Download it here or on [Steam workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2729258885).
